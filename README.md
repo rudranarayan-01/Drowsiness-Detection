@@ -48,7 +48,7 @@ Press `q` to exit the program.
 Feel free to contribute to this project by improving the detection system or adding new features.
 
 ## License
-This project is open-source and available under the **MIT License**.
+This project is open-source and free for contribution✨.
 
 ---
 
